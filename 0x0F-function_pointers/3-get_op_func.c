@@ -1,4 +1,4 @@
-#incude "3-calc.h"
+#include "3-calc.h"
 
 /**
  * get_op_func - returns pointer to right op func
